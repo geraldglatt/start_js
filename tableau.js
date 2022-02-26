@@ -70,7 +70,7 @@ do {
 // console.log(name);=>produit une erreur
 // tu verras une erreur 'reference error: name is not defined'
 //********************************** */
-//on retourne ici les elements du tableau s>= à 10
+//on retourne ici les elements du tableau >= à 10
 // const numbers = [1,2,3,7,3,10,100];
 // const filterNumbers = numbers.filter((element) => {
 //     return element >= 10;
